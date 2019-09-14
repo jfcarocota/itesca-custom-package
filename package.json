@@ -3,6 +3,7 @@
     "version": "1.0.1",
     "displayName": "ITESCA Custom Package",
     "description": "Esta es una paquetería custom para la clase de videojuegos en itesca.",
+    "type": "unity library",
     "unity": "2019.2",
     "unityRelease": "4f1",
     "license": "MIT",
