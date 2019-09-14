@@ -1,0 +1,21 @@
+{
+    "name": "com.itesca.custom-package",
+    "version": "1.0.1",
+    "displayName": "ITESCA Custom Package",
+    "description": "Esta es una paquetería custom para la clase de videojuegos en itesca.",
+    "unity": "2019.2",
+    "unityRelease": "4f1",
+    "license": "MIT",
+    "keywords": [
+        "custom package",
+        "itesca",
+        "inputs",
+        "rpg",
+        "topdown"
+    ],
+    "author": {
+        "name": "Jesús Caro",
+        "email": "jfcarocota@gmail.com",
+        "url": "https://connect.unity.com/u/jesus-caro"
+    }
+}
