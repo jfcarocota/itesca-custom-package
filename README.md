@@ -5,6 +5,6 @@
 ```json
 {
   "dependencies": {
-    "com.mycompany.mypackage": "https://mycompany.github.com/gitproject/com.mycompany.mypackage.git"
+    "com.itesca.custom-package": "https://github.com/jfcarocota/itesca-custom-package.git"
 }
 ```
