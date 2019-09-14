@@ -38,6 +38,11 @@ namespace Core.BasicInput
         {
             get => new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")).normalized * Time.deltaTime;
         }
+
+        public static bool Jump
+        {
+            get => Input.GetButtonDown("Jump");
+        }
     }
 }
 
